@@ -6,5 +6,27 @@ This is unofficial framer motion documentations.  Presented with well ordered an
   ### Event listeners for animations:
   - onAnimationComplete
   - onAnimationStart
+  - onAnimation
   ### Event Listeners for drag and drop:
   - onDirectionLock
+  - onDragTransitionEnd
+  - onDrag
+  - onDragEnd
+  - onDragStart
+  - onViewPortBoxUpdate
+
+   - onBeforeLayoutMesure
+   - onDragTransitionEnd
+   - onHoverEnd
+   - onHoverStart
+   - onLayoutAnimationComplite
+   - onLayoutMesure
+   - onPan
+   - onPanStart
+   - onPanEnd
+   - onPanSessionStart
+   - onTap
+   - onTapStart
+   - onTapCancel
+   - onUnmount
+   - onUpdate
